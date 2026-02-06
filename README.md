@@ -5,7 +5,9 @@ An interactive sales analytics dashboard built to analyze **customer demographic
 This dashboard helps stakeholders quickly understand **who is buying, what they are buying, from where, and through which platforms**.
 
 ---
+
 <img width="1063" height="533" alt="image" src="https://github.com/user-attachments/assets/11f3a4ab-278c-4ea3-8fa2-3649950a1f13" />
+
 ---
 
 ## 🚀 Dashboard Overview
